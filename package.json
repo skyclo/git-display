@@ -1,0 +1,19 @@
+{
+  "name": "git-display",
+  "version": "1.0.0",
+  "description": "Webpage display of all active projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skyclo/git-display.git"
+  },
+  "author": "Skyclo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skyclo/git-display/issues"
+  },
+  "homepage": "https://github.com/Skyclo/git-display#readme"
+}
