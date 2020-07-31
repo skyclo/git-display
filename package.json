@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Skyclo/git-display/issues"
   },
-  "homepage": "https://github.com/Skyclo/git-display#readme"
+  "homepage": "https://github.com/Skyclo/git-display#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
